@@ -1,6 +1,6 @@
 [package]
 name = "minigames"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
 homepage = "https://internals.rust-lang.org/t/minigames-while-waiting-for-builds/17273"
 license = "MIT OR Apache-2.0"
