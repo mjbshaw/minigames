@@ -1,0 +1,9 @@
+[package]
+name = "minigames"
+version = "0.0.0"
+edition = "2021"
+homepage = "https://internals.rust-lang.org/t/minigames-while-waiting-for-builds/17273"
+license = "MIT OR Apache-2.0"
+description = "A small collection of minigames"
+repository = "https://github.com/mjbshaw/minigames"
+readme = "README.md"
